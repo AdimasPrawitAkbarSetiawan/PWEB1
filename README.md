@@ -61,4 +61,12 @@ JS Variabel adalah tempat untuk menyimpan suatu data dalam javascript.
 JS Opreators digunakan untuk melakukan berbagai jenis perhitungan matematis.
 
 JS Arithmatic Penulisan simbol dalam perhitungan matematika.
+![Cuplikan layar 2024-04-05 093403](https://github.com/AdimasPrawitAkbarSetiawan/PWEB1/assets/165754298/c4665c57-7621-4aa0-ada7-3005783bce92)
+![Cuplikan layar 2024-04-05 093421](https://github.com/AdimasPrawitAkbarSetiawan/PWEB1/assets/165754298/7d42217b-4305-407b-8f80-6208715f22bc)
+![Cuplikan layar 2024-04-05 093455](https://github.com/AdimasPrawitAkbarSetiawan/PWEB1/assets/165754298/27444ed5-52f1-4afc-b1b3-ac9f0a4b97c3)
+![Cuplikan layar 2024-04-05 093519](https://github.com/AdimasPrawitAkbarSetiawan/PWEB1/assets/165754298/29824791-4112-4b85-b20f-e8b19481b4a8)
+![Cuplikan layar 2024-04-05 093539](https://github.com/AdimasPrawitAkbarSetiawan/PWEB1/assets/165754298/0fdb8c04-a0bd-431f-9fdd-ddc570d615d0)
+![Cuplikan layar 2024-04-05 093550](https://github.com/AdimasPrawitAkbarSetiawan/PWEB1/assets/165754298/4ffd2a86-87d2-44ac-ba63-27aeb42c4524)
+
+
 
